@@ -1,0 +1,64 @@
+body{
+    width: 450px;
+    height: 450px;
+    font-family: 'Akaya Telivigala', cursive;
+    margin: 15px;
+
+}
+
+header{
+    position: relative;
+    height: 90px;
+}
+
+h1{
+    display: inline-block;
+    font-size: 50px;
+    margin: 10px 5px;
+
+}
+
+img{
+    width: 70px;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+.medio{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+p{
+    width: 225px;
+    height: 210px;
+    display: inline-block
+}
+
+.in{
+
+    display: block;
+    padding-top: 40px;
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: none;  /* Quita bordes del focus */
+    font-size: 14px;
+    
+}
+
+
+footer{
+    margin-top: 20px;
+}
+.boton{
+    display: block;
+    margin: auto;
+    height: 40px;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 20px;
+
+}
+
